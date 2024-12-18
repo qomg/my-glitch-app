@@ -1,0 +1,14 @@
+{
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.21.2"
+    },
+    "narflinger": {
+      "basenames": [
+        "m59lvk6fknz4z6w2mpjimil87l9c9w2n-nodejs-22.10.0"
+      ]
+    }
+  }
+  
